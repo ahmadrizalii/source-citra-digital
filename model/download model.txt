@@ -1,0 +1,5 @@
+Model DeepLabv3+
+https://drive.google.com/file/d/17QKxSIBFhyJoDps93-sCVHnVV6UWS1sG/view?usp=sharing
+
+Model U-Net
+https://www.kaggle.com/code/kiranshahi/unet-implementation/data?select=unet.h5
